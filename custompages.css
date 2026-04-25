@@ -3,29 +3,29 @@
   font-family:MuseoSansCyrl-300;
   font-style:normal;
   font-weight:400;
-  src:url(fonts/MuseoSansCyrl-300.eot?#iefix) format("embedded-opentype"),
-  url(fonts/MuseoSansCyrl-300.woff) format("woff"),
-  url(fonts/MuseoSansCyrl-300.ttf) format("truetype")
+  src:url(MuseoSansCyrl-300.eot?#iefix) format("embedded-opentype"),
+  url(MuseoSansCyrl-300.woff) format("woff"),
+  url(MuseoSansCyrl-300.ttf) format("truetype")
 }
 @font-face {
   font-family:MuseoSansCyrl-500;
   font-style:normal;
   font-weight:400;
-  src:url(fonts/MuseoSansCyrl-500.eot?#iefix) format("embedded-opentype"),
-  url(fonts/MuseoSansCyrl-500.woff) format("woff"),
-  url(fonts/MuseoSansCyrl-500.ttf) format("truetype")
+  src:url(MuseoSansCyrl-500.eot?#iefix) format("embedded-opentype"),
+  url(MuseoSansCyrl-500.woff) format("woff"),
+  url(MuseoSansCyrl-500.ttf) format("truetype")
 }
 @font-face {
   font-family:MuseoSansCyrl-700;
   font-style:normal;
   font-weight:400;
-  src:url(fonts/MuseoSansCyrl-700.eot?#iefix) format("embedded-opentype"),
-  url(fonts/MuseoSansCyrl-700.woff) format("woff"),
-  url(fonts/MuseoSansCyrl-700.ttf) format("truetype")
+  src:url(MuseoSansCyrl-700.eot?#iefix) format("embedded-opentype"),
+  url(MuseoSansCyrl-700.woff) format("woff"),
+  url(MuseoSansCyrl-700.ttf) format("truetype")
 }
 @font-face {
   font-family:Montserrat;
-  src:url(fonts/Montserrat_7_0.ttf) format("truetype");
+  src:url(Montserrat_7_0.ttf) format("truetype");
   font-weight:700
 }
 .app_base_forgot .m-0,
